@@ -1,5 +1,5 @@
 # Haicadia
-Projeto de jogo RPG - seleção de personagens e habilidades;
+Projeto de jogo RPG - seleção de personagens e habilidades, jogo inteiramente criado em GML.
 
 Jogabilidade: 
 movimentação (W A S D);
